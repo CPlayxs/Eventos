@@ -4,7 +4,8 @@
 
 Básicamente una parodia de Five Nights At Freddy's en Minecraft hecho en 5 días por las risas
 
-![Lo que me "inspiró" a hacerlo](https://github.com/CPlayxs/Eventos/assets/100153287/de0223b6-bf6c-4fdd-ad83-7eb576b30a81)
+![1](https://github.com/CPlayxs/Eventos/assets/100153287/a7714416-6ae2-4474-8176-f4462019e76f)
+
 
 **Cabe aclarar**, el mapa es simple, como está hecho en 5 días, no me dió tiempo a hacerlo más completo.
 
@@ -81,4 +82,4 @@ Como actualmente no puedo subir el cliente por varios motivos, voy a dejar la li
 
 [Zoomify](https://modrinth.com/mod/zoomify)
 
-![Cliente](https://github.com/CPlayxs/Eventos/assets/100153287/1b4ae8f9-e7aa-4427-b138-3cabdf5c56f4)
+![Cliente](https://github.com/CPlayxs/Eventos/assets/100153287/d67dc48a-6e5d-4c18-9c27-f2e5d05d9d1c)
