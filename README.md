@@ -16,5 +16,5 @@ Va a estar incluido:
 
 ## ¿Quieres apoyarme?
 
-[<img width="250" alt="donation" src="https://github.com/CPlayxs/Eventos/assets/100153287/fc7d518e-b9c8-45e0-be15-6dff188e5dd5">
+[<img width="250" alt="donation" src="https://github.com/CPlayxs/Eventos/assets/100153287/f6955d0b-5632-4765-9c0a-32ba3c4443e1">
 ](https://ko-fi.com/playxs)
