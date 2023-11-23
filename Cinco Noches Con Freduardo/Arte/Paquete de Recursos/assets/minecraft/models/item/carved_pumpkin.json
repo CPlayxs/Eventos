@@ -1,0 +1,12 @@
+{
+ "parent": "minecraft:block/carved_pumpkin",
+ "textures": {
+  "layer0": "item/carved_pumpkin"
+ },
+ 
+ "overrides": [
+  {"predicate": {"custom_model_data":1}, "model": "playxs/freduardo"},
+  {"predicate": {"custom_model_data":2}, "model": "playxs/federico"},
+  {"predicate": {"custom_model_data":3}, "model": "playxs/fridi"}
+ ]
+}
